@@ -1,0 +1,16 @@
+{
+  "name": "Range Filter Panel",
+  "description": "Modal range filter with category and subcategory grouping",
+  "organization": "Your Organization",
+  "components": [
+    {
+      "id": "rangeFilterPanel",
+      "name": "Range Filter Panel",
+      "description": "Hierarchical range filter control",
+      "iconUrl": "https://www.gstatic.com/analytics-suite/header/suite/v2/ic_data_studio.svg"
+    }
+  ],
+  "permissions": {
+    "supportsFiltering": true
+  }
+}

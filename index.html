@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8" />
+  <title>Range Filter Panel</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+
+<body>
+  <!-- Filter Icon -->
+  <div id="filter-icon">🔍 Filter</div>
+
+  <!-- Modal -->
+  <div id="modal-overlay" class="hidden">
+    <div id="modal">
+      <div id="modal-header">
+        <span>Filters</span>
+        <button id="close-btn">✕</button>
+      </div>
+
+      <div id="modal-content"></div>
+
+      <div id="modal-footer">
+        <button id="reset-btn">Reset</button>
+        <button id="apply-btn">Apply</button>
+      </div>
+    </div>
+  </div>
+
+  <script src="https://www.gstatic.com/lookerstudio/visualization/dscc.js"></script>
+  <script src="script.js"></script>
+</body>
+</html>
