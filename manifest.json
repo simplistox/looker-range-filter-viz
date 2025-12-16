@@ -6,7 +6,10 @@
     {
       "id": "range_filter_panel",
       "name": "Range Filter Panel",
-      "description": "Range filter control visualization"
+      "description": "Range filter control visualization",
+      "resource": {
+        "js": "script.js"
+      }
     }
   ],
   "permissions": {
