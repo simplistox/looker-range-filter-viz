@@ -1,13 +1,12 @@
 {
   "name": "Range Filter Panel",
-  "description": "Modal range filter with category and subcategory grouping",
-  "organization": "Your Organization",
+  "description": "Hierarchical range filter with modal popup",
+  "organization": "Simplistox",
   "components": [
     {
-      "id": "rangeFilterPanel",
+      "id": "range_filter_panel",
       "name": "Range Filter Panel",
-      "description": "Hierarchical range filter control",
-      "iconUrl": "https://www.gstatic.com/analytics-suite/header/suite/v2/ic_data_studio.svg"
+      "description": "Range filter control visualization"
     }
   ],
   "permissions": {
