@@ -2,6 +2,7 @@
   "name": "Range Filter Panel",
   "description": "Hierarchical range filter with modal popup",
   "organization": "Simplistox",
+
   "components": [
     {
       "id": "range_filter_panel",
@@ -12,6 +13,7 @@
       }
     }
   ],
+
   "permissions": {
     "supportsFiltering": true
   }
